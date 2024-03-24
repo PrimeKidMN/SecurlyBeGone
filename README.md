@@ -13,4 +13,9 @@ To start there are a few things you will for sure need to get
 
 What we just did is called user agent switching basically we downgraded to a version of chrome old enough that securly no longer works.
 
+{DISCLAIMER!!!!}
+ In chrome://policy
 
+check the name called "ExtensionInstallBlocklist", if the value of it is ["*"]
+
+If it is set to that this will break your extensions!.
