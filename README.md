@@ -13,7 +13,10 @@ To start there are a few things you will for sure need to get
 
 What we just did is called user agent switching basically your agent is your browsers tech stack I guess you could say. It has your web browser model, stats, and architecture type in it. Your web identity, when we swap it we are down grading your web identity so that securly thinks you are on an unsupported version of chrome and stops functioning. It will not remove your search history dont go to that website I know your trying to go to, dont be dumb.
 
-{DISCLAIMER!!!!}
+Some websites will not function with this turned on specifically blooket type sites but other ones too so just turn it off and they will work again. WHATEVER YOU DO, DO NOT GO TO THE HELP DESK WITH THIS ON YOUR COMPUTER!!!!!!!!
+
+{DISCLAIMER}
+ 
  In chrome://policy
 
 check the name called "ExtensionInstallBlocklist", if the value of it is ["*"]
